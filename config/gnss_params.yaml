@@ -1,0 +1,5 @@
+/**:
+  ros__parameters:
+    gnss_node:
+      port: '/dev/ttyUSB0'
+      baudrate: 9600
